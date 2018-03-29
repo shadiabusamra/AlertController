@@ -15,4 +15,4 @@ Thanks to everyone who uses, enhances and improves this library, especially the 
 
 # License
 
-PopupDialog is available under the MIT license. See the LICENSE file for more info.
+AlertController is available under the MIT license. See the LICENSE file for more info.
